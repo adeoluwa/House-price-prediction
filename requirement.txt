@@ -1,2 +1,5 @@
 Flask 
 Werkzeug
+numpy
+pandas
+scikit-learn
