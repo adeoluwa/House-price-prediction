@@ -20,10 +20,21 @@ python app.py
 <br>
 <br>
 
-## License
+## URL
+  https://price-prediction-c0f4.onrender.com/predict
 
-MIT License
-<br>
 <br>
 
-### Thank you
+### request example
+{
+    "bedrooms": 25,
+    "bathrooms": 21,
+    "floors": 5,
+    "yr_built": 2017
+}
+<br>
+
+### response data sample
+{
+    "data": 6403110
+}
