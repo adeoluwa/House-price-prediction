@@ -25,7 +25,7 @@ python app.py
 
 <br>
 
-### request example
+## request example
 {
     "bedrooms": 25,
     "bathrooms": 21,
@@ -34,7 +34,7 @@ python app.py
 }
 <br>
 
-### response data sample
+## response data sample
 {
     "data": 6403110
 }
